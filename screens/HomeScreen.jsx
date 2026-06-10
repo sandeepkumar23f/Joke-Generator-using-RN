@@ -78,7 +78,7 @@ const styles = StyleSheet.create({
         shadowColor: "#38bdf8",
         shadowOffset: 0.6,
         shadowRadius: 12,
-        elevation: 12
+        elevation: 12,
     },
     buttonText: {
         color: "#020617",
